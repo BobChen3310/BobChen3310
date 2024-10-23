@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobChen3310&layout=compact&langs_count=6)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobChen3310&layout=compact&langs_count=6)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BobChen3310&theme=default&show_icons=true&hide_rank=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BobChen3310&theme=default&show_icons=true)
 
 <!--
 **BobChen3310/BobChen3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
