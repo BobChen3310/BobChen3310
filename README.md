@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobChen3310&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BobChen3310&theme=default&show_icons=true)
+![GitHub stats](https://githubcard.com/BobChen3310.svg?d=1zNGIPgK)
