@@ -1,6 +1,8 @@
-## 你好, 我是 Bob Chen 👋
+### 你好, 我是 Bob Chen 👋
 
-我是一位來自臺灣的大學生 :)
+---
+
+### 我是一位來自臺灣的大學生 :)
 
 ### 聯繫我：[bobchen@bob0623.net](mailto:bobchen@bob0623.net)
 
