@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobChen3310&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobChen3310&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobChen3310&show_icons=true)
